@@ -10,6 +10,9 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-%20%20%20-red)
 ![SQL](https://img.shields.io/badge/SQL-%20%20%20-yellow)
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-%20%20%20-9cf)
+![Markdown](https://img.shields.io/badge/MarkDown-%20%20%20-black)
+![HTML](https://img.shields.io/badge/HTML-%20%20%20-important)
+![css](https://img.shields.io/badge/css-%20%20%20-darkblue)
 
 ## Find out more about me and my experience on:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nic-orchard/)
@@ -19,3 +22,6 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Nic%20Orchard)
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicoleorchard)
+
+______________________________________________________________________________________________________________
+![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicaob97&theme=dark&show_icons=true)
