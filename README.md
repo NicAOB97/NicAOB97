@@ -24,4 +24,4 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicoleorchard)
 
 ______________________________________________________________________________________________________________
-![Nic's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicaob97&theme=dark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nicaob97&theme=dark&show_icons=true)
