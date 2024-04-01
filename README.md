@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @NicAOB97, you can call me Nic
 - 👩🏽 I go by the pronouns: she/her
-- 👀 I’m interested in Effective Altruism
+- 👀 I’m interested in Ethical AI
 - 🌱 I’m currently developing skills in ... Data Science
 - 💞️ I’m looking to work on ... Machine Learning projects
 
